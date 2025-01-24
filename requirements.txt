@@ -1,0 +1,4 @@
+# Installing a compatible versions of numpy, pillow, rawpy, imageio and matplotlib
+!pip install rawpy==0.20.0 pillow numpy==1.23.5 matplotlib==3.9.1 imageio==2.31.6 torch torchvision
+
+
